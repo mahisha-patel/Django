@@ -1,2 +1,2 @@
 # Django
-Django Web Appa
+Django Web Apps
